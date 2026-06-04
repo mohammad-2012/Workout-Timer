@@ -2,7 +2,7 @@
   "name": "workout-timer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mohammad-2012.github.io/workout-timer",
+  "homepage": "https://mohammad-2012.github.io/Workout-Timer",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
